@@ -1,6 +1,6 @@
 {
   "name": "zv-express-error-handler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Provides a class for handling various operational errors and provides middlewares and utilities to catch async function errors, unhandled rejection, and uncaught exceptions in a node-express with MongoDB application.",
   "main": "expressErrorHandler.js",
   "scripts": {
