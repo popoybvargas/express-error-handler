@@ -1,0 +1,27 @@
+{
+  "name": "zv-express-error-handler",
+  "version": "1.0.0",
+  "description": "Provides a class for handling various operational errors and provides middlewares and utilities to catch async function errors, unhandled rejection, and uncaught exceptions in a node-express with MongoDB application.",
+  "main": "expressErrorHandler.js",
+  "scripts": {
+    "test": "node expressErrorHandler.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popoybvargas/express-error-handler.git"
+  },
+  "keywords": [
+    "express",
+    "operational errors",
+    "middleware",
+    "utilities",
+    "unhandled rejection",
+    "uncaught exception"
+  ],
+  "author": "Popoy Vargas <popoyvargas@me.com> (https://teamzv.rocks)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popoybvargas/express-error-handler/issues"
+  },
+  "homepage": "https://github.com/popoybvargas/express-error-handler#readme"
+}
